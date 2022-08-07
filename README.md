@@ -1,12 +1,12 @@
 # OOPS-workout
-Design a HASH map
-Design LRU cache 
-Design a call Center 
-Design a Deck of Cards 
-Design a parking lot 
-Design an Online Chat System 
-Design an Address Book 
-Design Bank Management System 
-Design an ATM 
-Design Hotel Management System 
-Design Library Management System
+Design a HASH map<br />
+Design LRU cache<br /> 
+Design a call Center<br /> 
+Design a Deck of Cards<br /> 
+Design a parking lot<br /> 
+Design an Online Chat System<br />
+Design an Address Book<br /> 
+Design Bank Management System<br />
+Design an ATM<br /> 
+Design Hotel Management System<br /> 
+Design Library Management System<br />
